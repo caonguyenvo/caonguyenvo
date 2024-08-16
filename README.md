@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @caonguyenvo
-- 👀 I’m interested in making Desktop application, web and maybe some simple mobile games.
-- 🌱 I’m currently learning Web Dev using Microsoft framework, C++, and some Java related stuff :P.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+zz
